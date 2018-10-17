@@ -1,0 +1,28 @@
+{
+  "name": "seven-segment-display",
+  "version": "1.0.0",
+  "description": "Seven segment display made in p5.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krawieck/seven-segment-display.git"
+  },
+  "author": "krawieck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krawieck/seven-segment-display/issues"
+  },
+  "homepage": "https://github.com/krawieck/seven-segment-display#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "p5": "^0.7.2",
+    "parcel-bundler": "^1.10.3"
+  },
+  "devDependencies": {
+    "@types/p5": "^0.7.0"
+  }
+}
