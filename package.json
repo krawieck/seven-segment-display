@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/krawieck/seven-segment-display#readme",
   "dependencies": {
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "p5": "^0.7.2",
     "parcel-bundler": "^1.10.3"
   },
